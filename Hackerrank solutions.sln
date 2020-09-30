@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingProblem-HackerRank",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleAndOrangeProblem-HackerRank", "AppleAndOrangeProblem-HackerRank\AppleAndOrangeProblem-HackerRank.csproj", "{C34DAB06-9016-449A-BB16-F14046456F91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberLineJumps", "NumberLineJumps\NumberLineJumps.csproj", "{7D2A51F5-8963-443E-B369-1A6E0793AE3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C34DAB06-9016-449A-BB16-F14046456F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C34DAB06-9016-449A-BB16-F14046456F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C34DAB06-9016-449A-BB16-F14046456F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D2A51F5-8963-443E-B369-1A6E0793AE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2A51F5-8963-443E-B369-1A6E0793AE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2A51F5-8963-443E-B369-1A6E0793AE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2A51F5-8963-443E-B369-1A6E0793AE3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
